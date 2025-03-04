@@ -8,7 +8,7 @@
 
 ## 4- Add the Basic HTML Structure
 
-        (*See The File**)
+        (See The File)
 
 5.Save the changes
 
