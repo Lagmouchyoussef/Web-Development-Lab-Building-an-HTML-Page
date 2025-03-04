@@ -8,7 +8,7 @@
 
 ## 4- Add the Basic HTML Structure
 
-        (See The File)
+https://github.com/Lagmouchyoussef/Web-Development-Lab-Building-an-HTML-Page/blob/main/Untitled-1.html
 
 5.Save the changes
 
