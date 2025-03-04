@@ -1,3 +1,5 @@
+# Web Programming: Lab No. 1
+
 ## Creating a Web Page in HTML
 
 1. Create a new folder named "Lab_1_HTML"
@@ -6,26 +8,15 @@
 
 ## 4- Add the Basic HTML Structure
 
-```html
-<!DOCTYPE html>
-<html>
+        (*See The File**)
 
-<head>
-    <meta charset="UTF-8">
-    <title> title </title>
-</head>
+5.Save the changes
 
-<body>
-    body of the page ...
-</body>
+6.Execute your code
 
-</html>
-5-Save the changes
+7.View the Result in Your Web Browser
 
-6-Execute your code
-
-View the Result in Your Web Browser
-## HTML Elements Used in This Lab:
+**HTML Elements Used in This Lab:**
 | Element      | Function                                                                 | Example                                                                 |
 |--------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | **doctype**  | Indicates that this is indeed an HTML page                               | `<!DOCTYPE html>`                                                      |
